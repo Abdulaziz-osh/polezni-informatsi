@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    background-color: lightskyblue;
+    text-align: center;
+    border-radius: 15%;
+    margin-left: 300px;
+    margin-right: 300px;
+    box-shadow: 0 10px 10px  rgb(67, 43, 199), 10px 0 10px   rgb(190, 35, 35); 
+}
+
+header{
+    background-color: royalblue;
+    text-align: center;
+    font-size: 30px;
+    margin-right: 300px;
+    margin-left: 300px;
+    border-radius:43% ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.link-nav{
+    border: 3px solid navy;
+    border-radius:20%;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.link-na{
+    border: 3px solid navy;
+    border-radius:20%;
+    margin-left: 340px;
+    padding: 10px;
+    font-size: 20px;
+}
